@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Earthquake</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="google_map_key">AIzaSyBT1NRL-inambRRwb17igSHUAxe1YoGFnY</string>
+</resources>
